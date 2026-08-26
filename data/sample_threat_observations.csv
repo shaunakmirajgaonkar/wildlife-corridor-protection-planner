@@ -1,0 +1,121 @@
+threat_id,corridor_id,corridor_name,threat_type,severity_score,trend_change_pct,observed_date,evidence_count
+THR-001,COR-001,Western Forest Corridor,Land Use Change,46.4,22.6,2026-07-29,1
+THR-002,COR-002,Riverine Green Belt,Roads & Highways,49.7,12.4,2025-12-10,5
+THR-003,COR-003,Northern Wildlife Link,Light Pollution,80.6,0.4,2026-04-23,6
+THR-004,COR-004,Eastern Hills Corridor,Roads & Highways,89.8,6.5,2026-04-21,7
+THR-005,COR-005,Eastern Hills Corridor,Roads & Highways,53.9,16.1,2026-04-14,8
+THR-006,COR-006,Coastal Migration Path,Human Encroachment,42.5,-6.9,2026-07-15,8
+THR-007,COR-007,Central Grassland Link,Light Pollution,25.5,-2.0,2026-07-17,2
+THR-008,COR-008,Southern Forest Arc,Land Use Change,92.4,-10.1,2026-01-07,5
+THR-009,COR-009,Southern Forest Arc,Roads & Highways,25.4,-2.8,2026-04-29,1
+THR-010,COR-010,River Valley Connector,Light Pollution,56.9,16.8,2026-04-23,7
+THR-011,COR-011,Western Ridge Passage,Human Encroachment,44.6,-3.1,2025-12-13,7
+THR-012,COR-012,Coastal Wetland Link,Construction Activities,95.3,3.5,2025-12-21,8
+THR-013,COR-001,Coastal Wetland Link,Human Encroachment,80.7,6.2,2026-02-27,8
+THR-014,COR-002,Eastern Forest Bridge,Light Pollution,33.1,-2.4,2025-12-22,7
+THR-015,COR-003,Plateau Grassland Route,Roads & Highways,45.0,2.8,2026-07-20,5
+THR-016,COR-004,Western Forest Corridor,Roads & Highways,93.9,6.5,2026-03-30,2
+THR-017,COR-005,Western Forest Corridor,Light Pollution,80.2,-1.6,2026-07-06,8
+THR-018,COR-006,Riverine Green Belt,Construction Activities,57.0,14.2,2026-06-21,9
+THR-019,COR-007,Northern Wildlife Link,Human Encroachment,64.3,5.0,2026-02-19,4
+THR-020,COR-008,Eastern Hills Corridor,Construction Activities,82.2,-2.2,2026-07-31,7
+THR-021,COR-009,Eastern Hills Corridor,Roads & Highways,91.6,11.9,2026-02-09,3
+THR-022,COR-010,Coastal Migration Path,Construction Activities,43.5,-1.1,2026-01-02,8
+THR-023,COR-011,Central Grassland Link,Roads & Highways,66.9,11.3,2026-03-23,7
+THR-024,COR-012,Southern Forest Arc,Light Pollution,41.9,9.1,2026-04-26,1
+THR-025,COR-001,Southern Forest Arc,Human Encroachment,63.2,9.3,2026-03-26,3
+THR-026,COR-002,River Valley Connector,Land Use Change,15.6,3.1,2026-01-15,6
+THR-027,COR-003,Western Ridge Passage,Human Encroachment,45.2,-4.6,2026-01-08,3
+THR-028,COR-004,Coastal Wetland Link,Human Encroachment,74.1,4.0,2026-05-10,6
+THR-029,COR-005,Coastal Wetland Link,Construction Activities,77.0,-9.4,2026-03-29,6
+THR-030,COR-006,Eastern Forest Bridge,Human Encroachment,58.1,5.6,2025-12-29,3
+THR-031,COR-007,Plateau Grassland Route,Land Use Change,53.8,-4.9,2026-01-19,7
+THR-032,COR-008,Western Forest Corridor,Light Pollution,100.0,23.4,2026-04-22,2
+THR-033,COR-009,Western Forest Corridor,Human Encroachment,56.4,5.4,2026-04-22,2
+THR-034,COR-010,Riverine Green Belt,Human Encroachment,17.6,-1.6,2026-07-28,6
+THR-035,COR-011,Northern Wildlife Link,Construction Activities,87.3,-3.3,2026-07-28,7
+THR-036,COR-012,Eastern Hills Corridor,Human Encroachment,51.7,10.2,2026-04-26,8
+THR-037,COR-001,Eastern Hills Corridor,Land Use Change,83.0,-6.4,2026-02-05,7
+THR-038,COR-002,Coastal Migration Path,Land Use Change,56.0,-12.8,2025-12-29,9
+THR-039,COR-003,Central Grassland Link,Human Encroachment,10.0,-4.5,2026-05-17,9
+THR-040,COR-004,Southern Forest Arc,Human Encroachment,41.5,6.4,2026-02-09,8
+THR-041,COR-005,Southern Forest Arc,Land Use Change,45.2,1.6,2026-06-03,1
+THR-042,COR-006,River Valley Connector,Construction Activities,86.6,1.2,2025-12-14,9
+THR-043,COR-007,Western Ridge Passage,Human Encroachment,30.0,-6.1,2026-07-09,3
+THR-044,COR-008,Coastal Wetland Link,Human Encroachment,25.6,2.0,2026-04-15,3
+THR-045,COR-009,Coastal Wetland Link,Roads & Highways,79.8,-15.2,2026-03-03,8
+THR-046,COR-010,Eastern Forest Bridge,Light Pollution,56.6,6.5,2026-07-16,2
+THR-047,COR-011,Plateau Grassland Route,Land Use Change,19.3,1.1,2026-01-04,1
+THR-048,COR-012,Western Forest Corridor,Light Pollution,99.0,6.1,2026-05-30,8
+THR-049,COR-001,Western Forest Corridor,Construction Activities,53.4,-6.7,2025-12-09,1
+THR-050,COR-002,Riverine Green Belt,Roads & Highways,69.8,-8.1,2026-01-25,9
+THR-051,COR-003,Northern Wildlife Link,Human Encroachment,72.2,25.5,2025-12-31,2
+THR-052,COR-004,Eastern Hills Corridor,Human Encroachment,51.5,3.6,2025-12-23,1
+THR-053,COR-005,Eastern Hills Corridor,Construction Activities,40.1,-0.8,2026-03-02,9
+THR-054,COR-006,Coastal Migration Path,Roads & Highways,59.0,2.6,2026-05-30,5
+THR-055,COR-007,Central Grassland Link,Human Encroachment,90.6,-9.5,2026-01-20,4
+THR-056,COR-008,Southern Forest Arc,Human Encroachment,79.8,13.8,2026-03-31,2
+THR-057,COR-009,Southern Forest Arc,Roads & Highways,84.6,-10.9,2025-12-10,2
+THR-058,COR-010,River Valley Connector,Construction Activities,52.3,0.9,2026-04-14,5
+THR-059,COR-011,Western Ridge Passage,Human Encroachment,59.9,3.1,2026-07-22,2
+THR-060,COR-012,Coastal Wetland Link,Roads & Highways,45.5,3.6,2026-03-05,4
+THR-061,COR-001,Coastal Wetland Link,Light Pollution,77.9,-1.9,2026-07-15,9
+THR-062,COR-002,Eastern Forest Bridge,Human Encroachment,75.6,-3.2,2026-06-19,7
+THR-063,COR-003,Plateau Grassland Route,Construction Activities,82.4,0.5,2026-06-19,7
+THR-064,COR-004,Western Forest Corridor,Land Use Change,60.6,3.2,2026-03-31,3
+THR-065,COR-005,Western Forest Corridor,Roads & Highways,49.8,-11.0,2026-05-08,6
+THR-066,COR-006,Riverine Green Belt,Roads & Highways,49.5,4.1,2026-05-18,7
+THR-067,COR-007,Northern Wildlife Link,Roads & Highways,39.5,9.5,2026-05-15,7
+THR-068,COR-008,Eastern Hills Corridor,Light Pollution,76.4,-3.7,2025-12-28,2
+THR-069,COR-009,Eastern Hills Corridor,Roads & Highways,92.1,-21.4,2026-07-18,7
+THR-070,COR-010,Coastal Migration Path,Roads & Highways,53.8,3.5,2026-05-03,5
+THR-071,COR-011,Central Grassland Link,Roads & Highways,36.0,5.7,2025-12-07,7
+THR-072,COR-012,Southern Forest Arc,Construction Activities,73.9,10.8,2026-03-13,4
+THR-073,COR-001,Southern Forest Arc,Construction Activities,84.3,-6.0,2025-12-06,9
+THR-074,COR-002,River Valley Connector,Human Encroachment,100.0,16.6,2026-06-27,1
+THR-075,COR-003,Western Ridge Passage,Light Pollution,32.4,9.6,2026-03-03,1
+THR-076,COR-004,Coastal Wetland Link,Land Use Change,65.7,4.5,2025-12-23,8
+THR-077,COR-005,Coastal Wetland Link,Land Use Change,88.8,1.2,2026-06-19,1
+THR-078,COR-006,Eastern Forest Bridge,Land Use Change,78.1,9.4,2026-05-04,8
+THR-079,COR-007,Plateau Grassland Route,Light Pollution,67.2,-7.6,2026-06-27,1
+THR-080,COR-008,Western Forest Corridor,Light Pollution,100.0,18.0,2025-12-25,4
+THR-081,COR-009,Western Forest Corridor,Human Encroachment,55.3,-7.5,2026-05-03,3
+THR-082,COR-010,Riverine Green Belt,Construction Activities,100.0,-14.1,2026-04-05,1
+THR-083,COR-011,Northern Wildlife Link,Light Pollution,77.0,10.9,2026-04-23,8
+THR-084,COR-012,Eastern Hills Corridor,Roads & Highways,73.8,18.8,2026-05-01,9
+THR-085,COR-001,Eastern Hills Corridor,Construction Activities,82.5,-7.4,2026-04-30,8
+THR-086,COR-002,Coastal Migration Path,Human Encroachment,41.8,-10.3,2026-04-08,1
+THR-087,COR-003,Central Grassland Link,Land Use Change,58.6,8.9,2026-05-09,6
+THR-088,COR-004,Southern Forest Arc,Land Use Change,48.9,4.5,2026-07-27,3
+THR-089,COR-005,Southern Forest Arc,Construction Activities,71.1,-14.7,2025-12-30,9
+THR-090,COR-006,River Valley Connector,Light Pollution,46.0,-5.2,2026-02-25,3
+THR-091,COR-007,Western Ridge Passage,Land Use Change,56.3,-3.6,2026-01-13,3
+THR-092,COR-008,Coastal Wetland Link,Construction Activities,34.3,-8.2,2026-04-10,2
+THR-093,COR-009,Coastal Wetland Link,Land Use Change,79.3,-5.3,2026-05-18,1
+THR-094,COR-010,Eastern Forest Bridge,Light Pollution,45.7,15.7,2026-06-10,3
+THR-095,COR-011,Plateau Grassland Route,Light Pollution,61.8,-6.7,2026-05-23,7
+THR-096,COR-012,Western Forest Corridor,Light Pollution,72.0,-10.2,2026-04-05,4
+THR-097,COR-001,Western Forest Corridor,Construction Activities,100.0,14.4,2026-05-19,7
+THR-098,COR-002,Riverine Green Belt,Human Encroachment,84.0,9.6,2026-07-01,9
+THR-099,COR-003,Northern Wildlife Link,Construction Activities,85.0,-9.9,2026-06-26,8
+THR-100,COR-004,Eastern Hills Corridor,Light Pollution,74.3,2.7,2026-04-29,1
+THR-101,COR-005,Eastern Hills Corridor,Land Use Change,41.1,-3.3,2026-07-06,7
+THR-102,COR-006,Coastal Migration Path,Human Encroachment,81.2,12.5,2026-06-11,6
+THR-103,COR-007,Central Grassland Link,Light Pollution,37.4,1.5,2026-06-15,6
+THR-104,COR-008,Southern Forest Arc,Construction Activities,41.8,-2.7,2025-12-06,3
+THR-105,COR-009,Southern Forest Arc,Light Pollution,68.7,-22.4,2026-03-29,5
+THR-106,COR-010,River Valley Connector,Light Pollution,64.4,-4.0,2025-12-08,8
+THR-107,COR-011,Western Ridge Passage,Construction Activities,47.5,8.1,2026-04-03,8
+THR-108,COR-012,Coastal Wetland Link,Land Use Change,74.6,-8.6,2026-04-19,1
+THR-109,COR-001,Coastal Wetland Link,Construction Activities,10.0,12.3,2026-04-23,7
+THR-110,COR-002,Eastern Forest Bridge,Construction Activities,37.4,2.2,2026-04-16,5
+THR-111,COR-003,Plateau Grassland Route,Human Encroachment,49.6,4.5,2026-05-17,5
+THR-112,COR-004,Western Forest Corridor,Roads & Highways,74.9,9.5,2026-01-02,9
+THR-113,COR-005,Western Forest Corridor,Land Use Change,62.8,10.4,2026-06-26,1
+THR-114,COR-006,Riverine Green Belt,Land Use Change,37.8,10.2,2026-02-26,3
+THR-115,COR-007,Northern Wildlife Link,Land Use Change,24.5,-6.6,2026-03-17,3
+THR-116,COR-008,Eastern Hills Corridor,Light Pollution,69.2,-5.2,2026-03-07,4
+THR-117,COR-009,Eastern Hills Corridor,Human Encroachment,44.4,-2.6,2026-03-27,1
+THR-118,COR-010,Coastal Migration Path,Land Use Change,51.1,10.2,2026-01-11,1
+THR-119,COR-011,Central Grassland Link,Roads & Highways,39.7,1.1,2026-03-02,4
+THR-120,COR-012,Southern Forest Arc,Human Encroachment,63.1,12.0,2026-04-10,3
